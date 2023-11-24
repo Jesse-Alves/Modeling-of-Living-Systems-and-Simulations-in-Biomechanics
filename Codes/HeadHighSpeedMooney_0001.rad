@@ -1,0 +1,13 @@
+#-  1. :
+#---1----|----2----|----3----|----4----|----5----|----6----|----7----|----8----|----9----|---10----|
+/ANIM/DT
+#   TSTART     TFREQ
+0.000000 2.000000
+/RUN/Head_HighSpeedBrainMooney/1
+                  50
+/TFILE/4
+#            dT_HIS
+0.020000
+/VERS/2022
+/ANIM/ELEM/VONM
+/ANIM/ELEM/P
