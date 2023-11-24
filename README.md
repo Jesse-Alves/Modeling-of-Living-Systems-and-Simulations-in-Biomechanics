@@ -84,6 +84,8 @@ following characteristics:
 * The CSF was modeled using 3D elements.
 * The Skull was modeled using 2D elements and was divided in 3 parts representing the cortical and spongious materials.
 * The Skin was modeled using 3D elements
+
+<br />
 [Full article](https://github.com/Jesse-Alves/Modeling-of-Living-Systems-and-Simulations-in-Biomechanics/blob/main/Modeling%20of%20Living%20Systems%20and%20Simulations%20in%20Biomechanics.pdf)
 
 <!--
@@ -95,7 +97,7 @@ following characteristics:
 
 <div align="center">
   <a href="">
-    <img src="images/img.jpg" width="500" height="450" />
+    <img src="images/img.jpg" width="550" height="275" />
   </a>
 </div>
 
