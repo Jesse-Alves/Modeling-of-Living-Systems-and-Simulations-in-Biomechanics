@@ -85,8 +85,8 @@ following characteristics:
 * The Skull was modeled using 2D elements and was divided in 3 parts representing the cortical and spongious materials.
 * The Skin was modeled using 3D elements
 
-<br />
-[Full article](https://github.com/Jesse-Alves/Modeling-of-Living-Systems-and-Simulations-in-Biomechanics/blob/main/Modeling%20of%20Living%20Systems%20and%20Simulations%20in%20Biomechanics.pdf)
+
+[(Full article)](https://github.com/Jesse-Alves/Modeling-of-Living-Systems-and-Simulations-in-Biomechanics/blob/main/Modeling%20of%20Living%20Systems%20and%20Simulations%20in%20Biomechanics.pdf)
 
 <!--
 <p float="left">
@@ -97,7 +97,7 @@ following characteristics:
 
 <div align="center">
   <a href="">
-    <img src="images/img.jpg" width="550" height="275" />
+    <img src="images/img.jpg" width="550" height="333" />
   </a>
 </div>
 
