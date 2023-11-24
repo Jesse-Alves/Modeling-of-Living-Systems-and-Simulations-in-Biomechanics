@@ -84,7 +84,7 @@ following characteristics:
 * The CSF was modeled using 3D elements.
 * The Skull was modeled using 2D elements and was divided in 3 parts representing the cortical and spongious materials.
 * The Skin was modeled using 3D elements
-[Full article]()
+[Full article](https://github.com/Jesse-Alves/Modeling-of-Living-Systems-and-Simulations-in-Biomechanics/blob/main/Modeling%20of%20Living%20Systems%20and%20Simulations%20in%20Biomechanics.pdf)
 
 <!--
 <p float="left">
@@ -94,8 +94,8 @@ following characteristics:
 -->
 
 <div align="center">
-  <a href="https://github.com/Jesse-Alves/Pose-Estimation-and-3D-Registration/blob/main/Pose_Estimation_3D_Registration.pdf">
-    <img src="images/img.JPG" width="500" height="450" />
+  <a href="">
+    <img src="images/img.jpg" width="500" height="450" />
   </a>
 </div>
 
@@ -173,9 +173,9 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-All the codes of the project are available [here]() and can be directly simulated.  
+All the codes of the project are available [here](https://github.com/Jesse-Alves/Modeling-of-Living-Systems-and-Simulations-in-Biomechanics/tree/main/Codes) and can be directly simulated.  
 
-More details about the project can be found in the [article]() attached.
+More details about the project can be found in the [article](https://github.com/Jesse-Alves/Modeling-of-Living-Systems-and-Simulations-in-Biomechanics/blob/main/Modeling%20of%20Living%20Systems%20and%20Simulations%20in%20Biomechanics.pdf) attached.
 
 
 
